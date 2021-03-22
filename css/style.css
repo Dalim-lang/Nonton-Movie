@@ -1,0 +1,58 @@
+body {
+	font : 17px/28px arial,sans-serif;
+	background-color: lavender;
+	
+
+}
+.container {
+	margin: auto;	
+	background-color: rgb(228, 22, 22);
+}
+.header	{
+	padding: 10px;
+	color: #fff;
+	margin : auto;
+	padding-left:40%;
+		 
+}
+.header.judul {
+	font-size: 10px;
+	font-weight: bold;
+	
+	
+
+}
+.header ul li {
+	display: inline-block;
+	margin-top: 2px;
+}
+.header a {
+	text-decoration: none;
+	color: rgb(224, 224, 224);
+	padding: 3px;
+}
+.header a:hover	{
+	background-color: lightskyblue;
+}
+
+.table{
+	background-color: #fff;
+	padding-left: 50px;
+	padding-top:10px;
+	padding-right: 50px;
+	padding-bottom: 10px;
+}
+.table ul li {
+	display: inline-block;
+}
+.table a {
+	text-decoration: none;
+	color: rgb(2, 2, 2);
+}
+.table a:hover	{
+	background-color: rgb(255, 255, 255);
+}
+.table img{
+	height: 320px;
+	background-size: 0 10px;
+}

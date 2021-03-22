@@ -1,0 +1,67 @@
+body {
+	font : 17px/28px arial,sans-serif;
+	background-color: lavender;
+	
+
+}
+.container {
+	margin: auto;	
+	background-color: rgb(228, 22, 22);
+}
+.header	{
+	padding: 10px;
+	color: #fff;
+	margin : auto;
+	padding-left:40%;
+		 
+}
+.header.judul {
+	font-size: 10px;
+	font-weight: bold;
+	
+	
+
+}
+.header ul li {
+	display: inline-block;
+	margin-top: 2px;
+}
+.header a {
+	text-decoration: none;
+	color: rgb(224, 224, 224);
+	padding: 3px;
+}
+.header a:hover	{
+	background-color: lightskyblue;
+}
+
+.video	
+{	
+	height: 500px;
+	width: 500px;
+	margin: auto;
+	margin-bottom: 20px;
+	border: 50px solid rgb(77, 77, 77);
+
+}
+
+.conten {
+	width: 600px;
+	height:auto;
+	margin: auto;	
+	background-color:#fff;
+	border:3px solid black;
+	
+}
+.head	{	
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-right: 5px;
+}
+.img{
+margin:auto;
+padding:auto;
+height: 250px;
+width: 150px;
+
+}
